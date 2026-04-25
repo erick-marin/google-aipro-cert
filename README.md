@@ -19,38 +19,37 @@ Build your AI fluency and get more done, faster. Get the AI skills employers are
 
 ## SKILLS GAINED
 
+- AI Literacy
+- AI powered creativity
 - Artifical Intelligence
 - Brainstorming
 - Business Communication
 - Content Creation
 - Data Analysis
+- Data Wrangling
 - Machine Learning
 - Planning
 - Presentations
 - Project Management
+- Prompt Engineering Tools
+- Prompt Patterns
 - Research
 - Responsible AI
+- Visual Storytelling
 - Data Visualization
 
 ## COURSES
 
-### [Course 1&emsp;AI Fundamentals](Course_1/)
+### [Course 1&emsp;AI Fundamentals](Course_1/ai-fundamentals.md)
 
-- [x] [**Week 1**](Course_1/Week_1) Hello Python!
-- [x] [**Week 2**](Course_1/Week_2) Basic Python Syntax
-- [x] [**Week 3**](Course_1/Week_3) Loops
-- [x] [**Week 4**](Course_1/Week_4) Strings, Lists and Dictionaries
-- [ ] [**Week 5**](Course_1/Week_5) Object Oriented Programming
-- [x] [**Week 6**](Course_1/Week_6) Final Project
+### [Course 2&emsp;AI for Brainstorming and Planning](Course_2/ai-brainstorming-planning.md)
 
-### [Course 2&emsp;AI for Brainstorming and Planning](Course_2/)
+### [Course 3&emsp;AI for Research and Insights](Course_3/ai-research-insights.md)
 
-### [Course 3&emsp;AI for Reasearch and Insights](Course_3/)
+### [Course 4&emsp;AI for Writing and Communicating](Course_4/ai-writing-communicating.md)
 
-### [Course 4&emsp;AI for Writing and Communicating](Course_4/)
+### [Course 5&emsp;AI for Content Creation](Course_5/ai-content-creation.md)
 
-### [Course 5&emsp;AI for Content Creation](Course_5/)
+### [Course 6&emsp;AI for Data Analysis](Course_6/ai-data-analysis.md)
 
-### [Course 6&emsp;AI for Data Analysis](Course_6/)
-
-### [Course 7&emsp;AI for App Building](Course_7/)
+### [Course 7&emsp;AI for App Building](Course_7/ai-app-building.md)
