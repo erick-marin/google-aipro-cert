@@ -26,3 +26,10 @@
 - AI Personalization
 - LLM Application
 - Google Workspace
+
+### Module 1
+
+- AI Fundamentals
+- Adopt a collaborative mindset with AI
+- Three ways to collaborate with AI
+- Maya, what advice do you haver for peopole getting started with AI
