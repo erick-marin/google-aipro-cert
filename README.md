@@ -40,7 +40,7 @@ Build your AI fluency and get more done, faster. Get the AI skills employers are
 
 ## Professional Certificate - 8 course series
 
-### [Course 1&emsp;AI Fundamentals](course_1/)
+### [Course 1&emsp;AI Fundamentals](course_1/ai-fundamentals.md)
 
 ### [Course 2&emsp;AI for Brainstorming and Planning](ourse_2/ai-brainstorming-planning.md)
 
