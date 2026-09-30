@@ -42,7 +42,7 @@ Build your AI fluency and get more done, faster. Get the AI skills employers are
 
 ### [Course 1&emsp;AI Fundamentals](course_1/ai-fundamentals.md)
 
-### [Course 2&emsp;AI for Brainstorming and Planning](ourse_2/ai-brainstorming-planning.md)
+### [Course 2&emsp;AI for Brainstorming and Planning](course_2/ai-brainstorming-planning.md)
 
 ### [Course 3&emsp;AI for Research and Insights](course_3/ai-research-insights.md)
 
