@@ -8,7 +8,7 @@
 
 :heavy_check_mark: Evaluate technical issues during app development by using AI to diagnose and debug code to ensure a stable and functional prototype.
 
-:heavy_check_mark: Practice using advanced AI tools, like AI Studio, and gain confidence building more sophisticated and scalable custom solutions.
+:heavy_check_mark: Practice using advanced AI tools, like AI Studio, and gain confidence building custom solutions.
 
 ## Skills you'll gain
 
@@ -16,7 +16,4 @@
 - Google Workspace
 - Generative AI
 - Artificial Intelligence
-- Responsible AI
 - Google Gemini
-- AI Workflows
-- AI Enablement

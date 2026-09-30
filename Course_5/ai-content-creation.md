@@ -12,16 +12,13 @@
 
 ## Skills you'll gain
 
-- Responsible AI
 - AI powered creativity
-- Generative AI
-- AI Personalization
-- Creative Design
-- Visual Storytelling
-- AI Enablement
-- Google Gemini
-- AI literacy
-- Multimodal Prompts
 - Artificial Intelligence
-- AI Workflows
+- Creative Design
+- Multimodal Prompts
+- AI literacy
+- Visual Storytelling
+- Generative AI
 - Google Workspace
+- Ideation
+- AI Personalization

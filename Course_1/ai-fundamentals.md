@@ -12,24 +12,11 @@
 
 ## Skills you'll gain
 
-- Generative AI
-- Google Gemini
-- AI Enablement
-- Artificial Intelligence
-- Responsible AI
-- Data Synthesis
-- AI literacy
-- AI powered creativity
-- AI Workflows
 - Prompt Patterns
-- Data Literacy
-- AI Personalization
-- LLM Application
 - Google Workspace
-
-### Module 1
-
-- AI Fundamentals
-- Adopt a collaborative mindset with AI
-- Three ways to collaborate with AI
-- Maya, what advice do you haver for peopole getting started with AI
+- AI literacy
+- AI Personalization
+- Model Evaluation
+- Generative AI
+- Artificial Intelligence
+- AI powered creativity

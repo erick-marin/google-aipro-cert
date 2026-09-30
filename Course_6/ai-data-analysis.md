@@ -12,19 +12,17 @@
 
 ## Skills you'll gain
 
-- Google Gemini
 - Data Presentation
-- Data Wrangling
-- Analytics
+- Model Evaluation
 - Performance Analysis
-- Performance Measurement
-- AI Workflows
-- Generative AI
+- Productivity Software
+- Analytics
+- AI Personalization
+- Data Wrangling
+- Google Workspace
 - Simulation and Simulation Software
 - Artificial Intelligence
-- AI Enablement
-- Google Workspace
+- AI literacy
 - Interactive Data Visualization
 - Business Analytics
-- Responsible AI
-- AI Personalization
+- Generative AI

@@ -2,12 +2,7 @@
 
 Build your AI fluency and get more done, faster. Get the AI skills employers are looking for and create 20+ solutions you can use at work.
 
-## TOOLS
-
-- Generative AI
-- Vibe coding
-
-## WHAT YOU WILL LEARN
+## What you'll learn
 
 :white_check_mark: Adopt a collaborator mindset: Learn to give AI clear instructions so it acts as a professional collaborator, not just a simple task completer.
 
@@ -17,7 +12,7 @@ Build your AI fluency and get more done, faster. Get the AI skills employers are
 
 :white_check_mark: Build custom apps: Use vibe coding to create a custom app that solves your unique workplace challenges, no coding experience required.
 
-## SKILLS GAINED
+## Skills you'll gain
 
 - AI Literacy
 - AI powered creativity
@@ -38,9 +33,14 @@ Build your AI fluency and get more done, faster. Get the AI skills employers are
 - Visual Storytelling
 - Data Visualization
 
-## COURSES
+## Tools you'll learn
 
-### [Course 1&emsp;AI Fundamentals](Course_1/ai-fundamentals.md)
+- Generative AI
+- Vibe coding
+
+## Professional Certificate - 8 course series
+
+### [Course 1&emsp;AI Fundamentals](Course_1/)
 
 ### [Course 2&emsp;AI for Brainstorming and Planning](Course_2/ai-brainstorming-planning.md)
 
@@ -53,3 +53,5 @@ Build your AI fluency and get more done, faster. Get the AI skills employers are
 ### [Course 6&emsp;AI for Data Analysis](Course_6/ai-data-analysis.md)
 
 ### [Course 7&emsp;AI for App Building](Course_7/ai-app-building.md)
+
+### [Course 8&emsp;AI for App Building](Course_7/ai-app-building.md)

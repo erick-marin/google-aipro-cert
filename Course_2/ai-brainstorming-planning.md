@@ -8,19 +8,13 @@
 
 :heavy_check_mark: Strengthen project plans by using AI to identify potential gaps, risks, and dependencies in your timeline.
 
-:heavy_check_mark: Manage project documentation by building a centralized knowledge hub to keep your plans and information organized.Master core strategies for prompting Gemini to generate creative ideas.
+:heavy_check_mark: Manage project documentation by building a centralized knowledge hub to keep your plans and information organized.
 
 ## Skills you'll gain
 
-- Prompt Engineering
-- Google Gemini
-- Google Workspace
-- Responsible AI
-- AI Workflows
-- Artifical Intelligence
-- AI Enablement
-- Product Automation
-- New Business Development
 - Generative AI
+- Google Workspace
+- AI literacy
 - AI Personalization
-- AI Literacy
+- Product Planning
+- Artificial Intelligence

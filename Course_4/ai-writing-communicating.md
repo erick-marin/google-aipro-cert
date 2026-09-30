@@ -12,18 +12,15 @@
 
 ## Skills you'll gain
 
-- AI-powered creativity
-- Communication
-- Content Creation
+- Stakeholder Engagement
+- Public Speaking
+- Report Writing
+- Google Workspace
+- Communication Planning
+- AI Personalization
 - Generative AI
-- Planning
-- Presentations
-- Prompt Engineering Tools
-- Prompt Patterns
-- Responsible AI
-- Visual Storytelling
-- AI Enablement
 - AI literacy
-- Google Gemini
-- Ideation
-- AI Workflows
+- Persona Development
+- Stakeholder Analysis
+- Artificial Intelligence
+- Management Reporting
