@@ -40,18 +40,18 @@ Build your AI fluency and get more done, faster. Get the AI skills employers are
 
 ## Professional Certificate - 8 course series
 
-### [Course 1&emsp;AI Fundamentals](Course_1/)
+### [Course 1&emsp;AI Fundamentals](course_1/)
 
-### [Course 2&emsp;AI for Brainstorming and Planning](Course_2/ai-brainstorming-planning.md)
+### [Course 2&emsp;AI for Brainstorming and Planning](ourse_2/ai-brainstorming-planning.md)
 
-### [Course 3&emsp;AI for Research and Insights](Course_3/ai-research-insights.md)
+### [Course 3&emsp;AI for Research and Insights](course_3/ai-research-insights.md)
 
-### [Course 4&emsp;AI for Writing and Communicating](Course_4/ai-writing-communicating.md)
+### [Course 4&emsp;AI for Writing and Communicating](course_4/ai-writing-communicating.md)
 
-### [Course 5&emsp;AI for Content Creation](Course_5/ai-content-creation.md)
+### [Course 5&emsp;AI for Content Creation](course_5/ai-content-creation.md)
 
-### [Course 6&emsp;AI for Data Analysis](Course_6/ai-data-analysis.md)
+### [Course 6&emsp;AI for Data Analysis](course_6/ai-data-analysis.md)
 
-### [Course 7&emsp;AI for App Building](Course_7/ai-app-building.md)
+### [Course 7&emsp;AI for App Building](course_7/ai-app-building.md)
 
-### [Course 8&emsp;AI for App Deployment](Course_8/ai-app-deployment.md)
+### [Course 8&emsp;AI for App Deployment](course_8/ai-app-deployment.md)
