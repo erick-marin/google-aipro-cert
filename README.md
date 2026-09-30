@@ -54,4 +54,4 @@ Build your AI fluency and get more done, faster. Get the AI skills employers are
 
 ### [Course 7&emsp;AI for App Building](Course_7/ai-app-building.md)
 
-### [Course 8&emsp;AI for App Building](Course_7/ai-app-building.md)
+### [Course 8&emsp;AI for App Deployment](Course_8/ai-app-deployment.md)

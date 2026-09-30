@@ -1,4 +1,4 @@
-# AI for App Building
+# AI for App Deployment
 
 ## What you'll learn
 
