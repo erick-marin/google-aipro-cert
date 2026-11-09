@@ -4,6 +4,12 @@ Shift your mindset from using AI as a task completer to using AI as a collaborat
 
 1. Identify the key strengths, limitations, and risks of AI.
 
+## Table of Contents
+
+1. [AI Fundamentals](#ai-fundamentals)
+1. [Adopt a collaborative mindset with AI](#adopt-a-collaborative-mindset-with-ai)
+1. [Three ways to collaborate with AI](#three-ways-to-collaborate-with-ai)
+
 ## AI fundamentals
 
 - Important fundamentals of AI

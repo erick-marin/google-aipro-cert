@@ -2,7 +2,18 @@
 
 In this lab, you'll use Gemini to brainstorm material for a presentation.
 
-[TOC]
+## Table of Contents
+
+1. [Learn foundational AI concepts](#learn-foundational-ai-concepts)
+1. [Fundamentals of machine learning](#fundamentals-of-machine-learning)
+   - [Understand artificial intelligence](#understand-artificial-intelligence)
+   - [Understand machine learning](#understand-machine-learning)
+   - [Approaches to machine learning](#approaches-to-machine-learning)
+1. [Understand AI limitations](#understand-ai-limitations)
+   - [Understand biases in AI](#understand-biases-in-ai)
+   - [The constraint of knowledge cutoff](#the-constraint-of-knowledge-cutoff)
+   - [Changes in AI's performance over time](#changes-in-ais-performance-over-time)
+1. [Leverage AI features and capabilities for work](#leverage-ai-features-and-capabilities-for-work)
 
 ## Learn foundational AI concepts
 
