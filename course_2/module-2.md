@@ -161,7 +161,7 @@ Can One Kettlebell Replace A Whole Gym? YouTube · Squat University - 0:42
 
 [![Can One Kettlebell Replace A Whole Gym? YouTube · Squat University](https://img.youtube.com/vi/sLhQmg5C4xY/0.jpg)](https://www.youtube.com/watch?v=sLhQmg5C4xY)
 
-## Sources
+Consider how you can use Gemini to brainstorm in other ways. You can use it to help prepare for a work project or create ideas for your business.
 
 [1]: <https://www.futurefit.co.uk/blog/kettlebell-training-the-facts/#:~:text=Heart%20rate%20and%20blood%20lactate%20levels%20were,the%20maximum%20during%20the%20kettlebell%20snatch%20workout> "[Future Fit Training]"
 
